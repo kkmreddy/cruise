@@ -1,0 +1,41 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "MR.BEAN",
+      "posterpath": "images/bean.jpg"
+    },
+    {
+      "id": 2,
+      "title": "IRON MAN",
+      "posterpath": "images/ironman.jpg"
+    },
+    {
+      "id": 3,
+      "title": "GODJILLA",
+      "posterpath": "images/godzilla.jpg"
+    },
+    {
+      "id": 4,
+      "title": "SPIDERMAN",
+      "posterpath": "images/spiderman.jpg"
+    }
+  ],
+  "favourites": [
+    {
+      "id": 1,
+      "title": "MR.BEAN",
+      "posterpath": "images/bean.jpg"
+    },
+    {
+      "id": 2,
+      "title": "IRON MAN",
+      "posterpath": "images/ironman.jpg"
+    },
+    {
+      "id": 3,
+      "title": "GODJILLA",
+      "posterpath": "images/godzilla.jpg"
+    }
+  ]
+}
